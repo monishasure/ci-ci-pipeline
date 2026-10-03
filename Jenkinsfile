@@ -3,6 +3,7 @@ pipeline {
 
     environment{
         Docker="C:/Users/mohit/AppData/Local/Programs/DockerDesktop/resources/bin/docker.exe"
+    }
         
 
     stages {
